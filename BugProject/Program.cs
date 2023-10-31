@@ -29,7 +29,7 @@
 
             return;
 
-            Console.WriteLine("Syötä ikä");
+            Console.WriteLine("Input age");
             int age = int.Parse(Console.ReadLine());
 
             //Task 4; Fix the DeterminiteGeneration function, so that it prints out the correct generation if the age is 59
